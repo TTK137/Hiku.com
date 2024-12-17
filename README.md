@@ -1,2 +1,2 @@
-# Hiku.org
-Hiku is an organization for building web projects &amp; web apps.
+# Hiku.com
+Hiku is an company for building web projects &amp; web apps.
